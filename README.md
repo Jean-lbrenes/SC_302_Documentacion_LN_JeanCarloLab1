@@ -1,1 +1,4 @@
-# SC_302_Documentacion_LN_JeanCarloLab1
+# SC\_302\_Documentacion\_LN\_JeanCarloLab1
+
+Esta es mi primera práctica con GitHub
+
